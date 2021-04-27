@@ -1,8 +1,8 @@
 # Pokemon
 
-This project is an Angular CLI project for SIR.
-The goal of this project is to understand how a framework like Angular works.
-We fixed the use of the service which receive pokemon's info.
+This project is an Angular CLI project for SIR.<br/>
+The goal of this project is to understand how a framework like Angular works.<br/>
+We fixed the use of the service which receive pokemon's info.<br/>
 
 ## Development server
 
